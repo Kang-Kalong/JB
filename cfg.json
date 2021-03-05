@@ -1,0 +1,23 @@
+{
+    "sleep_time" : 2,
+    "bot" : "@dailyswapbot",
+    "reff" : "r09930205440",
+    "balance" : "✅ Done",
+    "bonus" : "✅ Done",
+    "wd" : "✅ Yes",
+    "set_email" : "✅ Yes",
+    "joined" : "✅Joined Airdrop",
+    "cancel_kembali" : "None",
+    "coinbase" : "ipan1912@gmail.com",
+    "button1" : "✅Joined Airdrop",
+    "button2" : "None",
+    "minimal_withdraw" : 0.0,
+    "balance_to_withdraw" : 0.00000100,
+    "fitur":{
+        "random_gmail" : "on",
+        "claim" : "on",
+        "wd" : "off",
+        "leave" : "off",
+        "manual_balance" : "off"
+    }
+}
