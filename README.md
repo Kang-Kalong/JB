@@ -1,0 +1,2 @@
+# joinbot
+Joinbot Script NuyuliinBG
